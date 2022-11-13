@@ -1,0 +1,1 @@
+{"config":{"indexing":"full","lang":["en"],"min_search_length":3,"prebuild_index":false,"separator":"[\\s\\-]+"},"docs":[{"location":"","text":"This is version 0.2 Here's hoping this preserves the v0.1 docs.","title":"This is version 0.2"},{"location":"#this-is-version-02","text":"Here's hoping this preserves the v0.1 docs.","title":"This is version 0.2"}]}
